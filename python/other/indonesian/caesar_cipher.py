@@ -28,7 +28,7 @@ print(f"Terenkripsi   : {cipher}")
 print(f"Setelah baca  : {plain}")
 
 '''
-🔁 Contoh Perhitungan
+Contoh Perhitungan
 Misalnya:
 
 char = 'c', kunci = 3, mode = enkripsi
@@ -40,3 +40,4 @@ base = ord('a') = 97
 chr(5 + 97) = 'f'
 Jadi 'c' → 'f'.
 '''
+
