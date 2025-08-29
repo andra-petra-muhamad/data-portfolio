@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,birth_date,hire_date,salary,department_id
+1,John,Smith,5/15/1980,2/28/2015,60000,1
+2,Jane,Doe,8/22/1985,7/15/2018,70000,2
+3,Robert,Johnson,12/10/1990,1/10/2020,80000,1
+4,Alice,Brown,3/5/1982,9/20/2016,65000,3
+5,Emily,Davis,7/30/1988,11/12/2017,75000,2
