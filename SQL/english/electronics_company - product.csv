@@ -1,0 +1,6 @@
+product_id,product_name,price,category_id
+1,Laptop,800,1
+2,Smartphone,400,2
+3,Headphones,50,3
+4,Tablet,300,1
+5,Camera,600,4
